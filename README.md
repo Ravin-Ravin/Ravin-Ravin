@@ -17,20 +17,6 @@ I'm a passionate **DevOps & Cloud Engineer** , dedicated to building scalable, a
 ## 🛠️ Skills & Technologies
 
 
----
-
-## 🌱 Currently Learning
-
-- GitHub Actions
-- Helm
-- Argo CD
-- Prometheus
-- Grafana
-- AWS DevOps Services
-- Advanced Kubernetes
-
----
-
 ## 🎯 Career Objective
 
 My goal is to become a skilled DevOps Engineer by designing reliable, scalable, and secure cloud infrastructure while automating software delivery using modern DevOps practices.
