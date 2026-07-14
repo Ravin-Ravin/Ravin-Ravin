@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **DevOps & Cloud Engineer** from India, dedicated to building scalable, automated, and cloud-native solutions. I enjoy learning new technologies, solving infrastructure challenges, and sharing my knowledge with the community.
+I'm a passionate **DevOps & Cloud Engineer** , dedicated to building scalable, automated, and cloud-native solutions. I enjoy learning new technologies, solving infrastructure challenges, and sharing my knowledge with the community.
 
 - 🎓 BCA Graduate
 - ☁️ Aspiring DevOps & Cloud Engineer
