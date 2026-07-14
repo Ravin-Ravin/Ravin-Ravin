@@ -1,18 +1,11 @@
-# Hi there 👋 I'm Ravin
+# Hi there 👋 
 
 ## 🚀 About Me
 
-I'm a passionate **DevOps & Cloud Engineer** , dedicated to building scalable, automated, and cloud-native solutions. I enjoy learning new technologies, solving infrastructure challenges, and sharing my knowledge with the community.
+👩‍💻 About Me
+I'm Ravin, born in Tamilnadu(Ulundurpet), India, and now living in Bangalore.
 
-- 🎓 BCA Graduate
-- ☁️ Aspiring DevOps & Cloud Engineer
-- 🐧 Strong foundation in Linux Administration
-- 🚀 Passionate about CI/CD, Automation, and Cloud Technologies
-- 📚 Continuously learning and building real-world DevOps projects
-- 🎥 Planning to create DevOps tutorials on YouTube
-- 💡 Open to DevOps, Cloud, and Platform Engineering opportunities
-
----
+- 🔭 I’m working as a  DevOps  Engineer with Zentrivo Technolog
 
 ## 🛠️ Skills & Technologies
 
