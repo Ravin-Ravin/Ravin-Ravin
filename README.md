@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there 👋 I'm Ravin
 
-<!--
-**Ravin-Ravin/Ravin-Ravin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate **DevOps & Cloud Engineer** from India, dedicated to building scalable, automated, and cloud-native solutions. I enjoy learning new technologies, solving infrastructure challenges, and sharing my knowledge with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Graduate
+- ☁️ Aspiring DevOps & Cloud Engineer
+- 🐧 Strong foundation in Linux Administration
+- 🚀 Passionate about CI/CD, Automation, and Cloud Technologies
+- 📚 Continuously learning and building real-world DevOps projects
+- 🎥 Planning to create DevOps tutorials on YouTube
+- 💡 Open to DevOps, Cloud, and Platform Engineering opportunities
+
+---
+
+## 🛠️ Skills & Technologies
+
+### ☁️ Cloud
+- AWS (EC2, IAM, VPC, S3, ELB, Auto Scaling, CloudWatch)
+
+### 🐳 DevOps
+- Docker
+- Kubernetes
+- Terraform
+- Git
+- GitHub
+- Jenkins
+- CI/CD
+- Shell Scripting
+
+### 🐧 Operating Systems
+- Linux (Ubuntu, CentOS)
+
+### 💻 Programming
+- Java
+- HTML
+- CSS
+- JavaScript
+
+### 🗄️ Database
+- MySQL
+
+### 🧰 Tools
+- VS Code
+- IntelliJ IDEA
+- Maven
+- Postman
+
+---
+
+## 🌱 Currently Learning
+
+- GitHub Actions
+- Helm
+- Argo CD
+- Prometheus
+- Grafana
+- AWS DevOps Services
+- Advanced Kubernetes
+
+---
+
+## 🎯 Career Objective
+
+My goal is to become a skilled DevOps Engineer by designing reliable, scalable, and secure cloud infrastructure while automating software delivery using modern DevOps practices.
+
+> "Automate everything, learn continuously, and build reliable systems."
