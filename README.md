@@ -66,3 +66,6 @@ I'm a passionate **DevOps & Cloud Engineer** , dedicated to building scalable, a
 My goal is to become a skilled DevOps Engineer by designing reliable, scalable, and secure cloud infrastructure while automating software delivery using modern DevOps practices.
 
 > "Automate everything, learn continuously, and build reliable systems."
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,terraform,jenkins,git,github,bash,java,html,css,js,mysql,vscode,idea,maven,postman&perline=9" />
+</p>
