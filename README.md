@@ -16,36 +16,6 @@ I'm a passionate **DevOps & Cloud Engineer** , dedicated to building scalable, a
 
 ## 🛠️ Skills & Technologies
 
-### ☁️ Cloud
-- AWS (EC2, IAM, VPC, S3, ELB, Auto Scaling, CloudWatch)
-
-### 🐳 DevOps
-- Docker
-- Kubernetes
-- Terraform
-- Git
-- GitHub
-- Jenkins
-- CI/CD
-- Shell Scripting
-
-### 🐧 Operating Systems
-- Linux (Ubuntu, CentOS)
-
-### 💻 Programming
-- Java
-- HTML
-- CSS
-- JavaScript
-
-### 🗄️ Database
-- MySQL
-
-### 🧰 Tools
-- VS Code
-- IntelliJ IDEA
-- Maven
-- Postman
 
 ---
 
