@@ -6,7 +6,7 @@
 
 I'm Ravin, born in Tamilnadu(Ulundurpet), India, and now living in Bangalore.
 
-- 🔭 I’m working as a  DevOps  Engineer with Zentrivo Technolog
+- 🔭 I’m working as a  DevOps  Engineer with Zentrivo Technologies Pvt Ltd
 
 ## 🛠️ Skills & Technologies
 <p align="center">
